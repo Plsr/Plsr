@@ -1,6 +1,16 @@
-### Hi there 👋
+### <p align="center">👋 Hi I'm Chris</p>
+----
+<p align="center"><a href="http://christianpoplawski.de">Website</a> | <a href="https://twitter.com/_chrispop">Twitter</a></p>
 
-<!--
+* 👨‍💻 I'm a Fullstack Developer
+* 🇩🇪 I'm located in Cologne, Germany
+* ➡️ I work with Ruby (on Rails), JavaScript, CSS and like UI/UX Design
+* 💼 Currently wroking for [@cisco](https://github.com/cisco)
+* 📝 I write things on [my blog](http://christianpoplawski.de/blog/)
+* 💬 Get in touch on [Twitter](https://twitter.com/_chrispop) or mail me: hello@christianpoplawski.de
+
+
+<!--🇩🇪
 **Plsr/Plsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
