@@ -5,7 +5,7 @@
 * 👨‍💻 I'm a Fullstack Developer
 * 🇩🇪 I'm located in Cologne, Germany
 * ➡️ I work with Ruby (on Rails), JavaScript (React, Stimulus), CSS and like UI/UX Design
-* 💼 Currently wroking for [@cisco](https://github.com/cisco)
+* 💼 Currently working for [@gigs](https://github.com/gigs)
 * 📝 I write things on [my blog](http://christianpoplawski.de/blog/)
 * 💬 Get in touch on [Twitter](https://twitter.com/_chrispop) or mail me: hello@christianpoplawski.de
 
