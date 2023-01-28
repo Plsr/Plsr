@@ -6,7 +6,7 @@
 * 🇩🇪 I'm located in Cologne, Germany
 * ➡️ I work with Ruby (on Rails), JavaScript (React, Stimulus), CSS and like UI/UX Design
 * 💼 Currently working for [@gigs](https://github.com/gigs)
-* 📝 I write things on [my blog](https://christjarling.com)
+* 📝 I write things on [my blog](https://chrisjarling.com)
 * 💬 Get in touch on [Twitter](https://twitter.com/chrisjarling) or mail me: hello@christianpoplawski.de
 
 
