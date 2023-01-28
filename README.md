@@ -1,13 +1,13 @@
 ### <p align="center">👋 Hi I'm Chris</p>
 ----
-<p align="center"><a href="https://chrisjarling.com">Website</a> | <a href="https://twitter.com/_chrispop">Twitter</a></p>
+<p align="center"><a href="https://chrisjarling.com">Website</a> | <a href="https://twitter.com/chrisjarling">Twitter</a></p>
 
 * 👨‍💻 I'm a Fullstack Developer
 * 🇩🇪 I'm located in Cologne, Germany
 * ➡️ I work with Ruby (on Rails), JavaScript (React, Stimulus), CSS and like UI/UX Design
 * 💼 Currently working for [@gigs](https://github.com/gigs)
 * 📝 I write things on [my blog](https://christjarling.com)
-* 💬 Get in touch on [Twitter](https://twitter.com/_chrispop) or mail me: hello@christianpoplawski.de
+* 💬 Get in touch on [Twitter](https://twitter.com/chrisjarling) or mail me: hello@christianpoplawski.de
 
 
 <!--🇩🇪
