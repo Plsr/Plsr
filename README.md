@@ -3,8 +3,8 @@
 <p align="center"><a href="https://chrisjarling.com">Website</a> | <a href="https://twitter.com/chrisjarling">Twitter</a></p>
 
 * 👨‍💻 I'm a Fullstack Developer
-* 🇩🇪 I'm located in Cologne, Germany
-* ➡️ I work with Ruby (on Rails), JavaScript (React, Stimulus), CSS and like UI/UX Design
+* 🇩🇰 I'm located in Copenhagen, Denmark
+* ➡️ I work with TypeScript, React, Next.js, Ruby (on Rails) and like UI/UX Design
 * 💼 Currently working for [@gigs](https://github.com/gigs)
 * 📝 I write things on [my blog](https://chrisjarling.com)
 * 💬 Get in touch on [Twitter](https://twitter.com/chrisjarling) or mail me: hi@chrisjarling.com
