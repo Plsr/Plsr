@@ -2,7 +2,7 @@
 ----
 <p align="center"><a href="https://chrisjarling.com">Website</a> | <a href="https://twitter.com/chrisjarling">Twitter</a></p>
 
-* 👨‍💻 I'm a Fullstack Developer
+* 👨‍💻 I'm a Fullstack Developer turned Engineering Manager
 * 🇩🇰 I'm located in Copenhagen, Denmark
 * ➡️ I work with TypeScript, React, Next.js, Ruby (on Rails) and like UI/UX Design
 * 💼 Currently working for [@gigs](https://github.com/gigs)
